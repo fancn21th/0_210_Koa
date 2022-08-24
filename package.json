@@ -1,0 +1,17 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "koa": "2.13.4",
+    "koa-router": "12.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
